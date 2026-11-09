@@ -51,7 +51,7 @@
         "wk:page":"Cormontibo"
     },
     "wof:country":"GF",
-    "wof:geomhash":"9ff6cb860d48054f4c9fb0c0f950e576",
+    "wof:geomhash":"82a68981acd44e1d4968989045938fa5",
     "wof:hierarchy":[
         {
             "locality_id":1209136465,
@@ -74,5 +74,5 @@
     -54.14118000000001,
     3.80415
 ],
-  "geometry": {"coordinates":[-54.14118000000001,3.80415],"type":"Point"}
+  "geometry": {"coordinates":[-54.14118,3.80415],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "gn:id":3382637
     },
     "wof:country":"GF",
-    "wof:geomhash":"6f067f3a0619eec84dc700e7df71933c",
+    "wof:geomhash":"91700c336948042e104e33707a9f14d6",
     "wof:hierarchy":[
         {
             "locality_id":1209022525,
@@ -64,5 +64,5 @@
     -54.35738000000001,
     4.05378
 ],
-  "geometry": {"coordinates":[-54.35738000000001,4.05378],"type":"Point"}
+  "geometry": {"coordinates":[-54.35738,4.05378],"type":"Point"}
 }

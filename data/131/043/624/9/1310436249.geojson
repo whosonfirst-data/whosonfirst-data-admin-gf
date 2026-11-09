@@ -51,7 +51,7 @@
         "wk:page":"Javouhey"
     },
     "wof:country":"GF",
-    "wof:geomhash":"bc04a630a251f676a25ac964aec9b9ec",
+    "wof:geomhash":"2f9c2461cfb140844fe83287d3b888a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     -53.81823000000001,
     5.60489
 ],
-  "geometry": {"coordinates":[-53.81823000000001,5.60489],"type":"Point"}
+  "geometry": {"coordinates":[-53.81823,5.60489],"type":"Point"}
 }

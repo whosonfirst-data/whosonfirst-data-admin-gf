@@ -134,7 +134,7 @@
         "gn:id":3382490
     },
     "wof:country":"GF",
-    "wof:geomhash":"52ba5f6410bd7f93104e50fe567012a1",
+    "wof:geomhash":"0ea5a0ee1b9ddefeb0fd29e025dc4ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,5 +169,5 @@
     -54.43333000000001,
     5.01667
 ],
-  "geometry": {"coordinates":[-54.43333000000001,5.01667],"type":"Point"}
+  "geometry": {"coordinates":[-54.43333,5.01667],"type":"Point"}
 }
