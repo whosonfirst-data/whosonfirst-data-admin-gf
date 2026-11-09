@@ -41,9 +41,8 @@
         102191581,
         85633147,
         1108805929,
-        1091680781,
-        102191577,
-        85632233
+        890442055,
+        102191577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +54,12 @@
         {
             "continent_id":102191581,
             "country_id":85633147,
-            "county_id":1091680781,
             "locality_id":1343892531,
             "macrocounty_id":1108805929,
             "region_id":85671195
         },
         {
             "continent_id":102191577,
-            "country_id":85632233,
-            "county_id":1091680781,
             "locality_id":1343892531,
             "macrocounty_id":1108805929,
             "region_id":85671195
@@ -72,7 +68,7 @@
     "wof:id":1343892531,
     "wof:lastmodified":1566637417,
     "wof:name":"Collery",
-    "wof:parent_id":1091680781,
+    "wof:parent_id":890442055,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gf",
     "wof:superseded_by":[],
