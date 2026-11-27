@@ -1,0 +1,87 @@
+{
+  "id": 9895090255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.01362,5.48196,-54.01362,5.48196",
+    "geom:latitude":5.48196,
+    "geom:longitude":-54.01362,
+    "iso:country":"GF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10372496: name \"Les Sables Blancs\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10372496"
+        },
+        {
+            "citation":"GeoNames populated place 10372496: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10372496"
+        },
+        {
+            "citation":"GeoNames populated place 10372496: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10372496"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125273737 (Arrondissement de Saint-Laurent-du-Maroni), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671195,
+        102191577,
+        102191581,
+        1091681021,
+        1108805933,
+        1125273737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372496
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"db81e36a5319e95f5921a341c709d842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681021,
+            "localadmin_id":1125273737,
+            "locality_id":9895090255,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "county_id":1091681021,
+            "localadmin_id":1125273737,
+            "locality_id":9895090255,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":9895090255,
+    "wof:lastmodified":1795746167,
+    "wof:name":"Les Sables Blancs",
+    "wof:parent_id":1125273737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.01362,
+    5.48196,
+    -54.01362,
+    5.48196
+],
+  "geometry": {"coordinates":[-54.01362,5.48196],"type":"Point"}
+}

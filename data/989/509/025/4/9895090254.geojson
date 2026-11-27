@@ -1,0 +1,87 @@
+{
+  "id": 9895090254,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.01287,5.49992,-54.01287,5.49992",
+    "geom:latitude":5.49992,
+    "geom:longitude":-54.01287,
+    "iso:country":"GF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10372493: name \"Fatima\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10372493"
+        },
+        {
+            "citation":"GeoNames populated place 10372493: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10372493"
+        },
+        {
+            "citation":"GeoNames populated place 10372493: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10372493"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1125273737 (Arrondissement de Saint-Laurent-du-Maroni), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633147,
+        85671195,
+        102191577,
+        102191581,
+        1091681021,
+        1108805933,
+        1125273737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372493
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"4187727b5a8be6d54c649e3da23ebcac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681021,
+            "localadmin_id":1125273737,
+            "locality_id":9895090254,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "county_id":1091681021,
+            "localadmin_id":1125273737,
+            "locality_id":9895090254,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":9895090254,
+    "wof:lastmodified":1795746167,
+    "wof:name":"Fatima",
+    "wof:parent_id":1125273737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.01287,
+    5.49992,
+    -54.01287,
+    5.49992
+],
+  "geometry": {"coordinates":[-54.01287,5.49992],"type":"Point"}
+}
